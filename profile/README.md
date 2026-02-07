@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://zutrix.com">
-    <img src="https://zutrix.com/images/zutrix-logo-dark.svg" alt="Zutrix" width="200" />
+    <img src="https://zutrix.com/android-chrome-512x512.png" alt="Zutrix" width="200" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://zutrix.com">Website</a> &middot;
   <a href="https://docs.zutrix.com">Documentation</a> &middot;
-  <a href="https://docs.zutrix.com/api">API Docs</a> &middot;
+  <a href="https://docs.zutrix.com/">API Docs</a> &middot;
   <a href="https://changelog.zutrix.com">Changelog</a> &middot;
   <a href="https://zutrix.com/blog/">Blog</a>
 </p>
